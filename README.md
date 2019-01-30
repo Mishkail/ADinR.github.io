@@ -1,1 +1,2 @@
-# ADinR.github.io
+# ADinR.ru
+## Data analysis with R
